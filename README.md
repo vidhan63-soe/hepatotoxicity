@@ -1,3 +1,3 @@
 # Hepatotoxicity
 Species transabilty of drugs using RAT data.
-Using Rat data of how ot effect on their gene to prdict its effect on Human.
+Using Rat data to show how drugs  effect on their gene to predict its effect on Human.
